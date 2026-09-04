@@ -120,3 +120,8 @@ O arquivo foi gerado em formato TXT delimitado por vírgulas, codificado em UTF-
 ## Observação sobre custos
 
 A pipeline foi executada manualmente, sem gatilhos recorrentes. Após a avaliação do projeto, os recursos podem ser removidos pelo Resource Group para evitar consumo desnecessário do crédito de avaliação do Azure.
+
+## Autor
+Antony Kennedy Ribeiro de Araújo
+
+Projeto desenvolvido como parte do bootcamp Microsoft AI for Tech - Azure Databricks da DIO.
